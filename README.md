@@ -1,0 +1,231 @@
+<html>
+    <style>
+        body{
+            /* background-color: rgb(27, 26, 26); */
+            background: linear-gradient(to bottom, #e2cca2,#e55050);
+        }
+    </style>
+        <head>
+
+            <link rel = "icon" href="./sung jinwoo.jpg" />
+            
+            <title> ATTACK on TITAN </title>
+        </head>
+
+            <body>
+                <h1 style="text-align: center;" class="title" >
+                      ATTACK on TITAN
+                </h1>
+                
+            <style>
+                .title{
+                    margin-top:50px;
+                    color: rgb(0, 0, 0);
+                    animation: slideOut 2.5s ease-in-out;
+                }
+                @keyframes slideOut {
+                from {
+                    transform: translateY(40px);
+                    opacity: 0;
+                }
+                to {
+                    transform: translateY(0);
+                    opacity: 1;
+                }
+}               
+            </style>
+
+            <pre class = "intro"> 
+            Attack on Titan is a Japanese dark fantasy anime television series, based on Hajime Isayama's 2009–2021 manga series Attack on Titan.
+            The series premiered on April 7, 2013, and concluded on November 5, 2023. Animated by Wit Studio (first three seasons) and MAPPA (final season),
+            the series aired on Mainichi Broadcasting System (first two seasons) and NHK General TV (final two seasons).
+            In North America, the series has been streamed on Crunchyroll, Funimation, and Hulu. 
+            Attack on Titan has also aired on Adult Swim's Toonami programming block in the United States.
+            </pre>
+                <style>
+                    .intro{
+                        color: rgb(45, 45, 45);
+                        text-align: center;
+                        font-weight: 3000;
+                        text-decoration-color: aliceblue;
+                        font-style: oblique;
+                        font-size: 20px;
+                        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                    }
+                </style>
+
+                <img class="thumb" src="aot thumb.jpg" width="980" height="720">
+                    <style>
+                        .thumb{
+                            display: block;
+                            margin: auto;
+                            border-radius: 20px;
+                        }
+                    </style>   
+
+                <br>
+
+                <h1 class="set">  Setting : </h1>
+                <style>
+                    .set{
+                        color:rgb(0, 0, 107);
+                        text-align: center;
+                    }
+                </style>
+                <pre class="secnd">
+                        Set in a post-apocalyptic world where the remains of humanity live behind walls protecting them from giant humanoid Titans, 
+                        Attack on Titan follows protagonist Eren Yeager, along with friends Mikasa Ackerman and Armin Arlert. 
+                        When a Colossal Titan breaches the wall of their hometown, Titans destroy the city and eat Eren's mother. 
+                        Vowing vengeance, Eren joins the elite Survey Corps, a group of soldiers who fight against Titans.
+                        It chronicles Eren's journey with the Survey Corps as they battle the Titans while investigating their origins and history.
+                </pre>
+                <style>
+                    .secnd{
+                        color: rgb(255, 255, 255);
+                        text-align: center;
+                        font-style: oblique;
+                        font-size: 20px;
+                        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                    }
+                </style>
+                <h1 class="main"> Main Character:</h1>
+                <style>
+                    .main{
+                        text-align: center;
+                        color: rgb(21, 0, 255);
+                    }
+                </style>
+                <p class="char"> EREN YEAGER</p>
+                <style>
+                    .char{
+                        font-size: 25px;
+                        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                        text-align: center;
+                        color: rgb(0, 251, 255);
+                    }
+                </style>
+                <img src="Kid Eren.webp" class="center-img" alt="Description of image" width="480" height="520">
+               <style>
+                    .center-img{
+                        border-radius: 20px;
+                        display: block;
+                        margin: auto;
+                    }
+               </style>
+
+                <br>
+                
+                <pre class="third">
+                    EREN YEAGER the protagonist of the Attack on Titan manga series created by Hajime Isayama. 
+                    Eren is a teenager who swears revenge on enormous man-eating humanoid creatures known as Titans, 
+                    who have forced what remains of the human race to live in walled-off cities and devoured his mother while 
+                    destroying his hometown in the Shiganshina district of Wall Maria. In order to defeat the Titans, 
+                    Eren enlists in the Military and joins the Survey Corps - an elite group of soldiers who fight Titans outside the walls, 
+                    whilst studying the physiology of Titans so as to better understand and defend themselves against these creatures. 
+                    As the story progresses, Eren gains the power of becoming a Titan later identified as "Attack Titan"
+                </pre>
+                <style>
+                    .third{
+                        text-align: center;
+                        color: rgb(255, 255, 255);
+                        font-style: oblique;
+                        font-size: 20px;
+                        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                    }
+                </style>
+
+                <br>
+
+                    <h1 align = "center"> HE WANTED CHANGE. IF HE HAD A CHANCE HE CAN CHANGE THE WORLD !</h1>
+
+                <br>
+
+                <h1 align = "center" class="titan"> Eren gains the power of becoming a Titan later identified as "Attack Titan"</h1>                                   
+                <style>
+                    .titan{
+                        text-align: center;
+                        color: #000000;
+                    }
+                </style>
+                <br>  
+                
+                <img src="adulteren.webp" class="center-img" alt="Description of image">
+               <style>
+                    .center-img{
+                        border-radius: 20px;
+                        display: block;
+                        margin: auto;
+                    }
+               </style>
+                <!-- <audio controls>
+                    <source src="./dark_aria.mp3" type="audio/mp3">
+                     Your browser does not support the audio element.
+                </audio>-->
+
+                    <br>
+
+                <pre class="four">
+                    The Rumbling in Attack on Titan is an apocalyptic event where millions of Colossal Titans, previously dormant 
+                    inside the walls of Paradis Island, are unleashed to march across the world, flattening everything in their path 
+                    to annihilate all life outside the island. Initiated by Eren Yeager using the Founding Titan's power, it's a 
+                    catastrophic event stemming from King Fritz's ancient threat to destroy the world if his people were ever attacked,
+                    symbolizing Eldia's ultimate weapon and Eren's drastic solution to eliminate threats to his homeland
+                </pre>
+                <style>
+                    .four{
+                        color: rgb(255, 255, 255);
+                        text-align: center;
+                        font-style: oblique;
+                        font-size: 20px;
+                        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                    }
+                </style>
+
+                <br>
+
+                      <!-- <video align = "center" width="1000" height="660" controls autoplay loop>
+                                    <source src="./jinwoo vs beru.mp4" type="video/mp4">
+                                    Your browser does not support the video tag.
+                      </video> -->
+
+                    <br>
+
+                      
+                                                                          
+
+                    <h1 class="text">
+                        <a href= "https://hianime.re/watch/attack-on-titan-bgaoa/ep-1" target = "_blank" > Watch-------- ATTACK ON TITAN</a> 
+                    </h1>
+                    <style>
+                    .text{
+                        text-align: center;
+                        color: rgb(0, 0, 0);
+                        transition: transform 1s, color 1s;
+                    }
+
+                    .text:hover {
+                        transform: scale(1.1);
+                         color: rgb(0, 255, 34);
+                    }
+                    </style>
+                <br>
+                <br>
+            </body>
+</html>
+
+
+
+
+
+
+I have used  HTML and simple CSS to build this webpage on my own. This gives a glance on the ANIME called ATTACK ON TITAN. 
+
+
+
+
+
+
+
+
+
+
